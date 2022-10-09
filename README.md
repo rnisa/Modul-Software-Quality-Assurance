@@ -1,5 +1,6 @@
 # Modul-Software-Quality-Assurance
-Kelompok_2
+<h3>Kelompok 2</h3>
+<strong>
 1. Rania Annisa
 2. Ainul Fitria
 3. Hafidh Asyi
@@ -7,3 +8,4 @@ Kelompok_2
 5. Rijik
 6. Rahmaini Salsabila
 7. Rizqillah
+</strong
