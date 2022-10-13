@@ -10,8 +10,7 @@
 7. Rizqillah
 </strong
 
-  <br>
-##Pembagian Tugas
+##Job Team
 ![WhatsApp Image 2022-10-13 at 14 14 03 (1)](https://user-images.githubusercontent.com/71523218/195527695-995cccbf-229a-4013-8bc7-76377936b8cb.jpeg)
   
 ##Job Desk
