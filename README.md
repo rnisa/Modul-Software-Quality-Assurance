@@ -5,7 +5,7 @@
 2. Ainul Fitria<br>
 3. Hafidh Asyi<br>
 4. Khaira Nadia<br>
-5. Rijik<br>
+5. Muhammad Rizieq Kaifan<br>
 6. Rahmaini Salsabila<br>
 7. Rizqillah
 </strong
