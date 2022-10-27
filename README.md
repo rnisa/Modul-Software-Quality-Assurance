@@ -17,3 +17,6 @@
   
 
 ![WhatsApp Image 2022-10-13 at 14 14 03](https://user-images.githubusercontent.com/71523218/195527721-a7f2bdee-0f55-44e4-b350-1d0e50e2e680.jpeg)
+
+
+![WhatsApp Image 2022-10-27 at 11 54 18](https://user-images.githubusercontent.com/71523218/198195332-c81a03f4-8482-4b58-9871-7ccf3b5eaeb3.jpeg)
