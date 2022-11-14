@@ -8,7 +8,7 @@
 5. Muhammad Rizieq Kaifan<br>
 6. Rahmaini Salsabila<br>
 7. Rizqillah
-</strong
+</strong>
 
   
   <h1>FORMAT JOBSHEET</h1>
