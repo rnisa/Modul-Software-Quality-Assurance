@@ -10,6 +10,10 @@
 7. Rizqillah
 </strong
 
+  
+  <h1>FORMAT JOBSHEET</h1>
+  <h2>Font : Times New Roman 12pt black</h2>
+  <h2>Space : 1,5</h2>
 
   
   
